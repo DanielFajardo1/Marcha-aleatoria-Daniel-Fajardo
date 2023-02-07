@@ -1,1 +1,3 @@
 # Marcha-aleatoria-Daniel-Fajardo
+Para abrir el programa debe cargarlo en cualquier consola de python. Puede utiliza Anaconda Spyder, colab o Jupyter project. Una vez cargue el archivo, reproduzcalo oprimiendo el boton de play y espere un tiempo hasta que el programa se detenga. Se generara una distribución de la posición final de la particula normalizada y tres listas: Una con los valores N del inciso 8, la lista de los promedios de las distribuciones generadas para cada N y la lista de las varianzas generadas para cada N respectivamente.
+Todo el codigo esta bien documentado y tiene su analisis correspondiente
